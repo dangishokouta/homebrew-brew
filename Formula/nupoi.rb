@@ -1,6 +1,5 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
+VERSION = "0.1.1"
+
 class Nupoi < Formula
   desc "Check for null in the dataset"
   homepage "https://github.com/dangishokouta/nupoi"
